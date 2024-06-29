@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Welcome to my GitHub profile!
+
+## About Me
+- 🌱 I’m currently learning UI/UX.
+- 💼 I’m currently working as a frontend developer.
+- 🎓 I’m currently learning React.
+
+Feel free to reach out if you have any questions or just want to connect!
+
+Thanks for visiting!
